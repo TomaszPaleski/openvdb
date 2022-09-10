@@ -1,0 +1,21 @@
+﻿  Building Custom Rule C:/Users/PC/source/repos/openvdb/zlib-1.2.12/CMakeLists.txt
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+C:\Users\PC\source\repos\openvdb\zlib-1.2.12\deflate.c(1915,1): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+C:\Users\PC\source\repos\openvdb\zlib-1.2.12\deflate.c(2040,1): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+C:\Users\PC\source\repos\openvdb\zlib-1.2.12\deflate.c(2150,13): warning C4244: '=': conversion from 'ush' to 'uchf', possible loss of data
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  inflate.c
+  infback.c
+  inftrees.c
+  inffast.c
+  trees.c
+  uncompr.c
+  zutil.c
+  Generating Code...
+  zlibstatic.vcxproj -> C:\Users\PC\source\repos\openvdb\zlib-1.2.12\build\Release\zlibstatic.lib

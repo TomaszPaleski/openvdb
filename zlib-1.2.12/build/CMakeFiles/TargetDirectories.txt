@@ -1,0 +1,8 @@
+C:/Users/PC/source/repos/openvdb/zlib-1.2.12/build/CMakeFiles/zlib.dir
+C:/Users/PC/source/repos/openvdb/zlib-1.2.12/build/CMakeFiles/zlibstatic.dir
+C:/Users/PC/source/repos/openvdb/zlib-1.2.12/build/CMakeFiles/example.dir
+C:/Users/PC/source/repos/openvdb/zlib-1.2.12/build/CMakeFiles/minigzip.dir
+C:/Users/PC/source/repos/openvdb/zlib-1.2.12/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/PC/source/repos/openvdb/zlib-1.2.12/build/CMakeFiles/INSTALL.dir
+C:/Users/PC/source/repos/openvdb/zlib-1.2.12/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/PC/source/repos/openvdb/zlib-1.2.12/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/PC/source/repos/openvdb/zlib-1.2.12/CMakeLists.txt
+  minigzip.c
+C:\Users\PC\source\repos\openvdb\zlib-1.2.12\test\minigzip.c(503,20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  minigzip.vcxproj -> C:\Users\PC\source\repos\openvdb\zlib-1.2.12\build\Release\minigzip.exe
